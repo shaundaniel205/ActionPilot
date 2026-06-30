@@ -4,7 +4,7 @@ ActionPilot is a modern full-stack productivity dashboard designed to schedule t
 
 It features a **Local Mock mode** (SQLite + Simulated Auth) that allows the application to run instantly out-of-the-box without configuring any external API keys or services.
 
----
+deployment: action-pilot-eeo0mymc7-shaundaniel205s-projects.vercel.app
 
 ## Core Features & Engines
 
