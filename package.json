@@ -1,0 +1,12 @@
+{
+  "name": "actionpilot-workspace",
+  "version": "1.0.0",
+  "description": "ActionPilot Workspace",
+  "scripts": {
+    "dev": "npm run dev --prefix frontend",
+    "build": "npm run build --prefix frontend",
+    "start": "npm start --prefix frontend",
+    "backend": "cd backend && .\\venv\\Scripts\\python main.py",
+    "test:backend": "cd backend && .\\venv\\Scripts\\python -m pytest"
+  }
+}
